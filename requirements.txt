@@ -293,6 +293,6 @@ urllib3==2.3.0
 videodev2==0.0.4
 webcolors==1.13
 webencodings==0.5.1
-Werkzeug==3.1.8
+Werkzeug==3.1.9
 wheel==0.46.1
 zipp==3.21.0
